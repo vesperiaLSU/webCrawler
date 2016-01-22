@@ -5,8 +5,8 @@
     var URL = require('url-parse');
     var fs = require('fs');
 
-    var START_URL = 'http://www.arstechnica.com';
-    var SEARCH_WORD = 'stemming';
+    var START_URL = 'http://www.careercup.com';
+    var SEARCH_WORD = 'algorithm';
     var MAX_PAGES_TO_VISIT = 10;
 
     var pagesVisited = {};
