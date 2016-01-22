@@ -1,2 +1,2 @@
 # webCrawler
-Web crawler implementation with Node.js and Java to scrap data from popular websites and search for keyword
+Simple web crawler implementations with Node.js and Java to scrap data from popular websites and search for keyword
